@@ -16,8 +16,10 @@ author: TrailRunningMCR
 navbar-links:
   More Info:
     - About: "aboutme"
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Runner Info: "runner_info"
+    - Price: "price"
+    - Terms: "terms"
+    - Contact: "contact"
 
 # --- Logo --- #
 
