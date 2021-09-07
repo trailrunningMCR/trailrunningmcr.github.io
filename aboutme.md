@@ -6,8 +6,10 @@ subtitle: What do TrailRunningMCR offer?
 navbar-links:
   More Info:
     - About: "aboutme"
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Runner Info: "runner_info"
+    - Price: "price"
+    - Terms: "terms"
+    - Contact: "contact"
     
 TrailRunningMCR offer guided runs along trail or fell on the edge of the beautiful Peak District, on the outskirsts of Greater Manchester.
 
