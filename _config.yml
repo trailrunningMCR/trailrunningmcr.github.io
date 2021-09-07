@@ -14,11 +14,13 @@ author: TrailRunningMCR
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "About trMCR"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - FAQs: ""
+    - Routes: ""
+    - Terms: ""
+    - Prices: ""
+    - Bookings: ""
 
 # --- Logo --- #
 
