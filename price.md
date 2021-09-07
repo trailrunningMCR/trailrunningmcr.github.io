@@ -1,14 +1,7 @@
 ---
 layout: page
-title: About Us
-subtitle: What do TrailRunningMCR offer?
+title: Price
+subtitle: Costs vary by length of run. We can also organise bespoke runs for you, just ask!
 ---
-navbar-links:
-  More Info:
-    - About: "aboutme"
-    - Runner Info: "runner_info"
-    - Price: "price"
-    - Terms: "terms"
-    - Contact: "contact"
     
     Oops, there is nothing here yet.
