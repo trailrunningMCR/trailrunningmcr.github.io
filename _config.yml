@@ -16,7 +16,7 @@ author: TrailRunningMCR
 navbar-links:
   About Me: "About trMCR"
   Resources:
-    - FAQs: ""
+    - FAQs: "https://trailrunningmcr.github.io/aboutme.md"
     - Routes: ""
     - Terms: ""
     - Prices: ""
