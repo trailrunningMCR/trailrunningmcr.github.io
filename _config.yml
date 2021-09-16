@@ -88,7 +88,7 @@ excerpt_length: 150
 feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+feed_show_tags: false
 
 # Add a search button to the navbar
 post_search: false
@@ -118,7 +118,7 @@ footer-link-col: "#404040"
 
 #navbar-img: "/assets/img/photos/IMG-20210608-WA0007_banner.png"
 #footer-img: "/assets/img/bgimage.png"
-page-img: "/assets/img/bgimage.png"
+page-img: "/assets/img/photos/IMG-20210608-WA0007_banner.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
@@ -236,7 +236,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-twitter-plugin
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
