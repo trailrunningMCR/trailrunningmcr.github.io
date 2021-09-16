@@ -10,9 +10,11 @@ Based in Marple Bridge, easily accessible by train (Marple station) or car, I ha
 
 
 
-Routes (more to come):
+Routes:
 - Manchester Sunset
 
 (A steady climb lets us take in **the best** view of Manchester at sunset atop this challenging route, before a thrilling downhill section winding through the woods back to Marple station.
 
-Longer/shorter and hilly/flat routes available for any fitness level. 
+- (more to come)
+
+Bespoke longer/shorter and hilly/flat routes available for any fitness level. 
