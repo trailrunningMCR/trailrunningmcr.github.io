@@ -6,12 +6,13 @@ subtitle: What do TrailRunningMCR offer?
     
 TrailRunningMCR offer guided runs along trail or fell on the edge of the beautiful Peak District, on the outskirsts of Greater Manchester.
 
-Based in Marple Bridge, easily accessible by train (Marple station) or car, we have a variety of routes through the countryside taking in the heights, woodlands, farmland and waterways.
+Based in Marple Bridge, easily accessible by train (Marple station) or car, I have a variety of routes through the countryside taking in the heights, woodlands, farmland and waterways.
 
 
 
-Established routes:
-- Manchester Sunset (approx. 15Km)
+Routes (more to come):
+- Manchester Sunset
 
-(A steady climb lets us take in **the best** view of Manchester at sunset atop this challenging route, before a thrilling downhill winding through the woods back to Marple station.
+(A steady climb lets us take in **the best** view of Manchester at sunset atop this challenging route, before a thrilling downhill section winding through the woods back to Marple station.
 
+Longer/shorter and hilly/flat routes available for any fitness level. 
