@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Price
+title: Contact
 ---
     
-    Oops, there is nothing here yet.
+Get in touch via email, [Twitter](www.twitter.com/trailrunningmcr) or [Facebook](www.facebook.com/trailrunningmcr)..
