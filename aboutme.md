@@ -10,8 +10,8 @@ Based in Marple Bridge, easily accessible by train (Marple station) or car, I ha
 
 
 
-Routes:
-- Manchester Sunset
+Top Routes:
+- Manchester Sunset - 7 days Apr-Sep, Sat & Sun only Oct-Mar. 
 
 (A steady climb lets us take in **the best** view of Manchester at sunset atop this challenging route, before a thrilling downhill section winding through the woods back to Marple station.
 
