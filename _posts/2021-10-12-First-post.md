@@ -5,6 +5,6 @@ subtitle: Fun and friendly trail running for runners looking for a new challenge
 permalink: /:title/
 thumbnail-img: "/assets/img/photos/IMG-20210608-WA0007.png"
 ---
-![Mellor](/assets/img/photos/small_PXL_20210902_180804938.jpg){: .mx-auto.d-block :}
+![Mellor](/assets/img/photos/IMG-20210608-WA0007.png){: .mx-auto.d-block :}
 
 
