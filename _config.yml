@@ -205,7 +205,8 @@ the `branch` parameter in `staticman.yml`
 timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /:title/
+#permalink: /:year-:month-:day-:title/
 paginate: 5
 
 kramdown:
